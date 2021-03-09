@@ -1,0 +1,11 @@
+
+.post_image {
+    width: 100%;
+    object-fit: contain;
+}
+
+.post_text {
+    font-weight: normal;
+    font-size: 12px;
+
+}
